@@ -1,0 +1,7 @@
+# Virtual environment directories
+venv/
+.pvenv/
+env/
+.env/
+__pycache__/
+pytorch_env/
